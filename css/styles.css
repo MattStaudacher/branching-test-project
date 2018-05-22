@@ -1,9 +1,7 @@
 h1 {
   color: darkred;
-  text-align: center;
 }
 h2{
-  text-align: center;
   font-style: italic;
   color: red;
 }
@@ -12,4 +10,6 @@ p{
 }
 body{
   background-color: salmon;
+  font-family: sans-serif;
+  text-align: center;
 }
