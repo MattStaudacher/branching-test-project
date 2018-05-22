@@ -1,13 +1,15 @@
 h1 {
-  color: blue;
+  color: darkred;
   text-align: center;
 }
 h2{
   text-align: center;
+  font-style: italic;
+  color: red;
 }
 p{
-  text-align: center;
+  color: crimson;
 }
 body{
-  background-color: #FFFFE0;
+  background-color: salmon;
 }
